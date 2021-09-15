@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lucas.
+- I'm interested in further technology.
+- Hope can get inspired idea on Github.
